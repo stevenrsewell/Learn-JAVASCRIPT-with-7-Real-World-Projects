@@ -3,3 +3,4 @@
  From the [Udemy](https://www.udemy.com/course/javascript-in-under-60-minutes/) course by Andre Iacono and Diego Davila
 
  ## Project 1
+Project 1 involved creating initial HTML, CSS, and Javascript files, linking to the Javascript file, returning data to the console, creating variables, chaining the variables and text together, and changing the variable data.
